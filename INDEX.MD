@@ -1,4 +1,4 @@
-# Arpit
+# ARPIT
 ## Data science for beginners 
 ### eduction 
 - IIT
